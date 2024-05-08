@@ -66,6 +66,7 @@ header {
     hsl(13deg 100% 72%) 100%
   );
   height: 90vh;
+  max-height: 600px;
 }
 
 header .container {
