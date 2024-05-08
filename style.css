@@ -46,6 +46,7 @@ body {
 .main__container {
   overflow-x: hidden;
   margin: 0 auto;
+  width: 100%;
   max-width: 1440px;
   background-color: var(--white);
 }
